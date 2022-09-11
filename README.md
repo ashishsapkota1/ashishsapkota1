@@ -32,18 +32,6 @@ huh- 👋 Hi, I’m @ashishsapkota1.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
  
-<!--Nodejs-->
-<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
- <!--Expressjs-->
-<a href="https://www.expressjs.org/" style="background-color:white;" width="50" height="50" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-</a>
-<!-- mongodb  -->
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-</a> 
 </p>
 
 <p align="left">
