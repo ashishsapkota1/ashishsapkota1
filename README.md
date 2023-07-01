@@ -1,6 +1,6 @@
 huh- 👋 Hi, I’m @ashishsapkota1.
 - 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently learning Flutter,Dart,Javascrit.
+- 🌱 I’m currently learning Flutter,Dart,Javascript.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
